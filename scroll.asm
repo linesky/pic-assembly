@@ -2,7 +2,7 @@
 var1 equ 0xc
 
 
-movlw 128
+movlw 80
 movwf var1
 
 
